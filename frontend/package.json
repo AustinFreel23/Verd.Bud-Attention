@@ -1,6 +1,6 @@
 { 
   "name": "ai",
-  "version": "0.1.0",   
+  "version": "0.1.0",    
   "private": true,
   "dependencies": { 
     "@solana/wallet-adapter-base": "^0.9.23",
